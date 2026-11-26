@@ -6,7 +6,7 @@ Built as a **100% self-contained single HTML file** using HTML5 Canvas 2D and sy
 
 ## How to Play
 
-1. **Pull work left to right:** Drag work cards from **New** $\rightarrow$ **Approved** $\rightarrow$ **Analysis** $\rightarrow$ **Development** $\rightarrow$ **Testing** $\rightarrow$ **Done**.
+1. **Pull work left to right:** Drag work cards from **New** > **Approved** > **Analysis** > **Development** > **Testing** > **Done**.
 2. **Respect the timers:** Cards must finish processing in an active column before they can move forward.
 3. **Watch your WIP:** Overloading a column slows down processing and stresses the team.
 4. **Don't let cards boil over:** Completed cards left sitting too long turn red, vibrate, and drain your Customer Value score.
