@@ -1,6 +1,6 @@
 # Kanban Flow Master
 
-👉 **[Play Kanban Flow Master]([https://davidrjenkins40.github.io/kanban-flow-master/)])**
+👉 **[Play Kanban Flow Master]([https://davidrjenkins40.github.io/kanban-flow-master/])**
   
 
 A 2D hi-bit pixel art arcade puzzle-management game built to teach core Kanban principles—managing flow, limiting Work in Progress (WIP), spotting bottlenecks, and preventing team overburdening—in a fast-paced 5-day workweek campaign.
