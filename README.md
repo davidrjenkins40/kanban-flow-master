@@ -26,3 +26,12 @@ Built as a **100% self-contained single HTML file** using HTML5 Canvas 2D and sy
 ## Running Locally
 
 Just download `index.html` and open it in any modern web browser—no build step, server, or internet connection required.
+
+## Feedback & Feature Requests
+
+Spotted a bug, have an idea for a new Kanban scenario, or want to suggest an improvement?
+
+👉 **[Share feedback or request a feature](https://github.com/davidrjenkins40/kanban-flow-master/issues)**
+
+Feel free to browse existing issues to comment on ideas you like, or click **New issue** to submit your own.
+
